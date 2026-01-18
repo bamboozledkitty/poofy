@@ -24,6 +24,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		B13C99912CE7CD0F00D6B4D5 /* SimulatedLocation.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; name = SimulatedLocation.gpx; path = Poofy/SimulatedLocation.gpx; sourceTree = "<group>"; };
 		B13C90B92CE7CD0F00D6B4D5 /* Poofy.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Poofy.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		B13C90CA2CE7CD1100D6B4D5 /* PoofyTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = PoofyTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		B13C90D42CE7CD1100D6B4D5 /* PoofyUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = PoofyUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -88,6 +89,7 @@
 		B13C90B02CE7CD0F00D6B4D5 = {
 			isa = PBXGroup;
 			children = (
+				B13C99912CE7CD0F00D6B4D5 /* SimulatedLocation.gpx */,
 				B13C90BB2CE7CD0F00D6B4D5 /* Poofy */,
 				B13C90CD2CE7CD1100D6B4D5 /* PoofyTests */,
 				B13C90D72CE7CD1100D6B4D5 /* PoofyUITests */,
@@ -112,6 +114,7 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = B13C90DE2CE7CD1100D6B4D5 /* Build configuration list for PBXNativeTarget "Poofy" */;
 			buildPhases = (
+				B13C99922CE7CD0F00D6B4D5 /* ShellScript */,
 				B13C90B52CE7CD0F00D6B4D5 /* Sources */,
 				B13C90B62CE7CD0F00D6B4D5 /* Frameworks */,
 				B13C90B72CE7CD0F00D6B4D5 /* Resources */,
@@ -244,6 +247,26 @@
 		};
 /* End PBXResourcesBuildPhase section */
 
+
+/* Begin PBXShellScriptBuildPhase section */
+		B13C99922CE7CD0F00D6B4D5 /* ShellScript */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+			);
+			outputFileListPaths = (
+			);
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${PROJECT_DIR}/Scripts/generate_gpx.sh\"";
+		};
+/* End PBXShellScriptBuildPhase section */
 /* Begin PBXSourcesBuildPhase section */
 		B13C90B52CE7CD0F00D6B4D5 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
