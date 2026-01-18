@@ -41,8 +41,23 @@ You don't need to know Swift to use this app!
 3.  The app will launch and show your configured center point.
 4.  Tap **Generate New Location**.
 
-### 4. Use the GPX File
-The app saves `.gpx` files to the Documents directory. You can access these via Xcode's "Simulate Location" feature or by browsing the app's container if you are an advanced user.
+### 4. How to Use the Generated File
+Once the app confirms a file is generated, follow these steps to use it:
+
+1.  **Locate the File**:
+    *   Open the **Files** app on your iPhone (or Simulator).
+    *   Navigate to **On My iPhone** > **Poofy**.
+    *   You will see files named like `RandomLocation_123456.gpx`.
+
+2.  **Transfer to Mac** (if using a real phone):
+    *   Long press the file -> **Share** -> **AirDrop** to your Mac.
+
+3.  **Simulate in Xcode**:
+    *   Run the app in Xcode.
+    *   In the bottom debug bar, look for the **Location Arrow** icon (📍).
+    *   Click it and select **Add GPX File...**.
+    *   Choose the `.gpx` file you just grabbed.
+    *   The location on your device/simulator will instantly jump to the random coordinate!
 
 ## 📝 License
 
