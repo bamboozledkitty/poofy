@@ -24,14 +24,39 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		B10DF43F2D38AE6D00C95256 /* RandomLocation_1736996550.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; name = RandomLocation_1736996550.gpx; path = ../RandomLocation_1736996550.gpx; sourceTree = "<group>"; };
 		B13C90B92CE7CD0F00D6B4D5 /* Poofy.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Poofy.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		B13C90CA2CE7CD1100D6B4D5 /* PoofyTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = PoofyTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		B13C90D42CE7CD1100D6B4D5 /* PoofyUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = PoofyUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		B14242492D11310E00F5BBC4 /* RandomLocation_1734408552.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; name = RandomLocation_1734408552.gpx; path = ../../Desktop/RandomLocation_1734408552.gpx; sourceTree = "<group>"; };
+		B14345132D263A0800ABC3AC /* RandomLocation_1735787103.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; name = RandomLocation_1735787103.gpx; path = ../../Desktop/RandomLocation_1735787103.gpx; sourceTree = "<group>"; };
+		B14345142D26D1A400ABC3AC /* RandomLocation_1735825923.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; name = RandomLocation_1735825923.gpx; path = ../../Desktop/RandomLocation_1735825923.gpx; sourceTree = "<group>"; };
+		B15BD4602D13C6E3005E8A35 /* RandomLocation_1734577991.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; name = RandomLocation_1734577991.gpx; path = ../../Desktop/RandomLocation_1734577991.gpx; sourceTree = "<group>"; };
+		B18F0F402D11B52400A22B24 /* RandomLocation_1734442377.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; name = RandomLocation_1734442377.gpx; path = ../../Desktop/RandomLocation_1734442377.gpx; sourceTree = "<group>"; };
+		B19136852D0B23FE006F2460 /* RandomLocation_1734012000.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; name = RandomLocation_1734012000.gpx; path = ../../Desktop/RandomLocation_1734012000.gpx; sourceTree = "<group>"; };
+		B19557C22D0A89B000CCA770 /* RandomLocation_1733972499.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; name = RandomLocation_1733972499.gpx; path = ../../Desktop/RandomLocation_1733972499.gpx; sourceTree = "<group>"; };
+		B1D4C2A52D2CDA53008B8A54 /* RandomLocation_1736221349.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; name = RandomLocation_1736221349.gpx; path = ../../Desktop/RandomLocation_1736221349.gpx; sourceTree = "<group>"; };
+		B1D4C2A62D2D7ADB008B8A54 /* RandomLocation_1736262465.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; name = RandomLocation_1736262465.gpx; path = ../../Desktop/RandomLocation_1736262465.gpx; sourceTree = "<group>"; };
+		B1D4C2BD2D2F73A5008B8A54 /* RandomLocation_1736391680.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; name = RandomLocation_1736391680.gpx; path = ../../Desktop/RandomLocation_1736391680.gpx; sourceTree = "<group>"; };
+		B1D4C2BE2D3049C7008B8A54 /* RandomLocation_1736446502.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; name = RandomLocation_1736446502.gpx; path = ../RandomLocation_1736446502.gpx; sourceTree = "<group>"; };
 /* End PBXFileReference section */
+
+/* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
+		B13C90F72CE7DB9800D6B4D5 /* Exceptions for "Poofy" folder in "Poofy" target */ = {
+			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
+			membershipExceptions = (
+				Info.plist,
+			);
+			target = B13C90B82CE7CD0F00D6B4D5 /* Poofy */;
+		};
+/* End PBXFileSystemSynchronizedBuildFileExceptionSet section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
 		B13C90BB2CE7CD0F00D6B4D5 /* Poofy */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
+			exceptions = (
+				B13C90F72CE7DB9800D6B4D5 /* Exceptions for "Poofy" folder in "Poofy" target */,
+			);
 			path = Poofy;
 			sourceTree = "<group>";
 		};
@@ -75,6 +100,18 @@
 		B13C90B02CE7CD0F00D6B4D5 = {
 			isa = PBXGroup;
 			children = (
+				B10DF43F2D38AE6D00C95256 /* RandomLocation_1736996550.gpx */,
+				B1D4C2BE2D3049C7008B8A54 /* RandomLocation_1736446502.gpx */,
+				B1D4C2BD2D2F73A5008B8A54 /* RandomLocation_1736391680.gpx */,
+				B1D4C2A62D2D7ADB008B8A54 /* RandomLocation_1736262465.gpx */,
+				B1D4C2A52D2CDA53008B8A54 /* RandomLocation_1736221349.gpx */,
+				B14345142D26D1A400ABC3AC /* RandomLocation_1735825923.gpx */,
+				B14345132D263A0800ABC3AC /* RandomLocation_1735787103.gpx */,
+				B15BD4602D13C6E3005E8A35 /* RandomLocation_1734577991.gpx */,
+				B18F0F402D11B52400A22B24 /* RandomLocation_1734442377.gpx */,
+				B14242492D11310E00F5BBC4 /* RandomLocation_1734408552.gpx */,
+				B19136852D0B23FE006F2460 /* RandomLocation_1734012000.gpx */,
+				B19557C22D0A89B000CCA770 /* RandomLocation_1733972499.gpx */,
 				B13C90BB2CE7CD0F00D6B4D5 /* Poofy */,
 				B13C90CD2CE7CD1100D6B4D5 /* PoofyTests */,
 				B13C90D72CE7CD1100D6B4D5 /* PoofyUITests */,
@@ -396,6 +433,9 @@
 				ENABLE_HARDENED_RUNTIME = YES;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = Poofy/Info.plist;
+				INFOPLIST_KEY_NSLocationAlwaysUsageDescription = "Required for location simulation";
+				INFOPLIST_KEY_NSLocationWhenInUseUsageDescription = "Required for location simulation";
 				"INFOPLIST_KEY_UIApplicationSceneManifest_Generation[sdk=iphoneos*]" = YES;
 				"INFOPLIST_KEY_UIApplicationSceneManifest_Generation[sdk=iphonesimulator*]" = YES;
 				"INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents[sdk=iphoneos*]" = YES;
@@ -405,7 +445,6 @@
 				"INFOPLIST_KEY_UIStatusBarStyle[sdk=iphoneos*]" = UIStatusBarStyleDefault;
 				"INFOPLIST_KEY_UIStatusBarStyle[sdk=iphonesimulator*]" = UIStatusBarStyleDefault;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				IPHONEOS_DEPLOYMENT_TARGET = 18.1;
 				LD_RUNPATH_SEARCH_PATHS = "@executable_path/Frameworks";
 				"LD_RUNPATH_SEARCH_PATHS[sdk=macosx*]" = "@executable_path/../Frameworks";
@@ -435,6 +474,9 @@
 				ENABLE_HARDENED_RUNTIME = YES;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = Poofy/Info.plist;
+				INFOPLIST_KEY_NSLocationAlwaysUsageDescription = "Required for location simulation";
+				INFOPLIST_KEY_NSLocationWhenInUseUsageDescription = "Required for location simulation";
 				"INFOPLIST_KEY_UIApplicationSceneManifest_Generation[sdk=iphoneos*]" = YES;
 				"INFOPLIST_KEY_UIApplicationSceneManifest_Generation[sdk=iphonesimulator*]" = YES;
 				"INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents[sdk=iphoneos*]" = YES;
@@ -444,7 +486,6 @@
 				"INFOPLIST_KEY_UIStatusBarStyle[sdk=iphoneos*]" = UIStatusBarStyleDefault;
 				"INFOPLIST_KEY_UIStatusBarStyle[sdk=iphonesimulator*]" = UIStatusBarStyleDefault;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				IPHONEOS_DEPLOYMENT_TARGET = 18.1;
 				LD_RUNPATH_SEARCH_PATHS = "@executable_path/Frameworks";
 				"LD_RUNPATH_SEARCH_PATHS[sdk=macosx*]" = "@executable_path/../Frameworks";
